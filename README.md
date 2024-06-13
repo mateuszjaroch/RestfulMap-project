@@ -4,9 +4,7 @@ Simple Redis-like database with REST routes, written with json header and Pistac
 **Warning! Under no circumstances use this code in production, i am unsure of it's safety.**
 # Usage
 
-![Alt text](1.png)
-
-
+https://drive.google.com/drive/folders/1wgyz5S24ZoxHp4nV1zV5edeuAbUCMDNE?usp=sharing
 
 ## Routes
 As written in **server.h**
